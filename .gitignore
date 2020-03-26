@@ -1,0 +1,13 @@
+/node_modules/
+/bower_components/
+/vendor/
+/bitrix
+/upload
+/local/build
+
+*.log
+*.lock
+hosts.yml
+
+.env
+
