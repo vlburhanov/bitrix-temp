@@ -1,4 +1,5 @@
 /* global jQuery */
+import '~/bootstrap-material-design'
 
 // import local dependencies
 import Router from './util/Router';
